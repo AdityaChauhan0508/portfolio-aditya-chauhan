@@ -1,0 +1,10 @@
+{
+  "name": "Aditya Chauhan — Full-Stack Developer",
+  "short_name": "Aditya Chauhan",
+  "description": "Portfolio of Aditya Chauhan, a full-stack developer building AI-integrated web apps with React, Next.js, Node.js and modern tooling.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#221b3d",
+  "theme_color": "#221b3d",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
