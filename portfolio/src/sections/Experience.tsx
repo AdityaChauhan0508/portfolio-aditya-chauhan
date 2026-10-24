@@ -7,7 +7,7 @@ const ITEMS = [
     icon: GraduationCap,
     accent: "--color-violet",
     kind: "Education",
-    title: "Integrated B.Tech + M.Tech, Computer Science",
+    title: "Integrated B.Tech + M.Tech, Computer Science & Engineering",
     meta: "NIET, Greater Noida · 2022 – 2027 · CGPA 8/10",
     text: "Dual-degree programme with a focus on data structures, algorithms, DBMS, operating systems and computer networks.",
   },
@@ -15,8 +15,8 @@ const ITEMS = [
     icon: Award,
     accent: "--color-cyan",
     kind: "Certifications",
-    title: "Coursera · 2023",
-    meta: "Python Basics · Python for Data Science, AI & Development · Introduction to AI",
+    title: "Coursera",
+    meta: "Python Basics / Python for Data Science, AI & Development / Introduction to AI",
     text: "Completed three courses covering Python fundamentals, data science tooling and core artificial intelligence concepts.",
   },
   {
@@ -24,8 +24,8 @@ const ITEMS = [
     accent: "--color-gold",
     kind: "Achievements",
     title: "LeetCode Knight · 1,825 contest rating",
-    meta: "605 solved (190 Easy · 302 Medium · 113 Hard) · Global rank 64,478 · Top 7.41%",
-    text: "365-day max streak with 1,046 submissions in the past year, 26 contests attended and 19 badges including the 365 Days Badge.",
+    meta: "600+ solved / Global rank 64,478 / Top 7.41%",
+    text: "365-day+ max streak with 1,046 submissions in the past year, 26 contests attended and 19 badges including the 365 Days Badge.",
   },
 ];
 
