@@ -13,15 +13,15 @@ import {
 } from "../components/Doodles";
 
 const STATS = [
-  { value: "605", label: "LeetCode problems solved" },
-  { value: "1,825", label: "Contest rating (Knight)" },
-  { value: "365", label: "Day max streak" },
+  { value: "600+", label: "LeetCode problems solved" },
+  { value: "1,825", label: "Contest rating (Knight Badge)" },
+  { value: "365+", label: "Days max streak" },
 ];
 
 const MORE_INFO = [
   "I'm pursuing an Integrated B.Tech + M.Tech in Computer Science and Engineering at NIET, Greater Noida (2022 – 2027), with strong foundations in data structures, algorithms and software design.",
   "I build full-stack, AI-integrated applications and enjoy distributed-system concepts, RESTful API design and end-to-end development.",
-  "Outside of building, I'm into competitive programming, AI research and keeping up with technology trends. On LeetCode I'm a Knight with a 1,825 contest rating, 605 problems solved and a 365-day streak.",
+  "Outside of building, I'm into competitive programming, AI research and keeping up with technology trends. On LeetCode I'm a Knight with a 1,825 contest rating, 600+ problems solved and a 365+ days streak.",
 ];
 
 export function About() {
