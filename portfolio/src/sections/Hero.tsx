@@ -54,7 +54,7 @@ export function Hero() {
           </motion.h1>
 
           <motion.p variants={item} className="mt-8 max-w-md text-lg font-medium text-(--color-ink)/80">
-            Full-Stack Developer&nbsp;&middot;&nbsp;AI-Integrated Web Apps&nbsp;&middot;&nbsp;Competitive Programmer
+            Full-Stack Developer&nbsp;&middot;&nbsp;AI-Integrated Web Apps&nbsp;&middot;&nbsp;Competitive Programmer&nbsp;&middot;&nbsp;Software Engineer
           </motion.p>
 
           <motion.div variants={item} className="relative mt-10 flex flex-wrap items-center gap-4">
